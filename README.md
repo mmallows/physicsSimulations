@@ -7,7 +7,7 @@ course. There is a text field in the two-dimensional elastic collision example t
 at any given point in time. It does vary a bit after each collision, but it does show that the system does more or less
 maintain a conservation of momentum. Sometimes there are issues with collisions between objects or against the side of the pane,
 but for the most part it's decent. The point is to display my ability to program in an object-oriented language to fulfill
-a purpose. This was just a fun project for me to work on during the summer after my first year at Saint Michael's and it was
-really fun to work on and it really only took a few days to complete. I've looked back at it over breaks and checked some of
-the math and made some small tweaks but it's been functional since I first made it that summer. Please check it out and I hope
-it can be helpful or is just interesting or fun for somebody to look at.
+a purpose. I made the two-dimensional collisions example during the summer after my first year at Saint Michael's College and 
+have gone back to add the other pieces during breaks since then. It's been a fun project for me and has kept me refreshed in some
+basic Java programming and also let's me review some of the physics concepts I learned in high school while taking AP mechanical
+physics.
